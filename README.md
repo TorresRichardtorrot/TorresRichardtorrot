@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TorresRichardtorrot
+- in the repository is the readme of the file
+- 📫 How to reach me Correo:torresdrichar@gmail.com
