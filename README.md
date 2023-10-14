@@ -1,14 +1,14 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="http://torres-richard.onrender.com/">Torres Richard</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="">
 
 ## Sobre mi
 
 - 
 
 <br>
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/TorresRichardtorrot">
