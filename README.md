@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="http://torres-richard.onrender.com/">Torres Richard</a> 👋</h1>
 </div>
-<img width="100%" height="180em" src="(https://github.com/TorresRichardtorrot/portafolio-estatico/blob/main/fondoGithub.png)">
+<img width="100%" height="180em" src="[(https://github.com/TorresRichardtorrot/portafolio-estatico/blob/main/fondoGithub.png)](https://raw.githubusercontent.com/TorresRichardtorrot/portafolio-estatico/main/fondoGithub.png?token=GHSAT0AAAAAACHVVH6CZTLPKFILQSQXURSSZJLEDMA)">
 
 ## Sobre mi
 
