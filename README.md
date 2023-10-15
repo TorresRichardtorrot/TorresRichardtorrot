@@ -15,17 +15,17 @@ Soy  un desarrollador web apasionado por crear soluciones tanto en el frontend c
 - 📘 Siempre dispuesto a aprender
 
 ### Lenguajes y Tecnologías
-- <img alt="Static Badge" src="https://img.shields.io/badge/HTML-red"> y <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue">
-- <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow">
-- <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-greed"> y <img alt="Static Badge" src="https://img.shields.io/badge/Expres-grey">
-- <img alt="Static Badge" src="https://img.shields.io/badge/GIT-orange">
-- <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightblue">
-- <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-greed">
-- <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue">
-- <img alt="Static Badge" src="https://img.shields.io/badge/Django-greed">
-
+- 📄 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-red"> HTML 5
+- 🎨 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue"> CSS3
+- 💛 <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow"> JavaScript
+- 📡 <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-greed"> Node.js
+- 🚀 <img alt="Static Badge" src="https://img.shields.io/badge/Expres-grey"> Express
+- 🐙 <img alt="Static Badge" src="https://img.shields.io/badge/GIT-orange"> GIT
+- 📊 <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightblue"> SQL
+- 💾 <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-greed"> MongoDB
+- 🍃 <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue"> Python
+- 🐍 <img alt="Static Badge" src="https://img.shields.io/badge/Django-greed"> Django
 <br>
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
