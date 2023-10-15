@@ -4,7 +4,7 @@
 <img width="100%" height="450px" src="https://github.com/TorresRichardtorrot/portafolio-estatico/blob/main/fondoGithub.png">
 
 ## 👨‍💻 Sobre Mí
-Hola, soy Torres Richard, un desarrollador web apasionado por crear soluciones tanto en el frontend como en el backend. Siempre estoy entusiasmado por aprender y enfrentar nuevos desafíos en el desarrollo web, ya que creo que el aprendizaje continuo es esencial en el campo tecnológico en constante evolución.
+Soy  un desarrollador web apasionado por crear soluciones tanto en el frontend como en el backend. Siempre estoy entusiasmado por aprender y enfrentar nuevos desafíos en el desarrollo web, ya que creo que el aprendizaje continuo es esencial en el campo tecnológico en constante evolución.
 
 ## 🚀 Habilidades
 - Liderazgo
