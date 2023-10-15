@@ -25,7 +25,7 @@ Soy  un desarrollador web apasionado por crear soluciones tanto en el frontend c
 - 🍃 <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-greed"> 
 - 🐍 <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue"> 
 - 🐍 <img alt="Static Badge" src="https://img.shields.io/badge/Django-greed"> 
-<br>
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
