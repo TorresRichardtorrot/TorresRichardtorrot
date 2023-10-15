@@ -15,13 +15,13 @@ Hola, soy Torres Richard, un desarrollador web apasionado por crear soluciones t
 - Siempre dispuesto a aprender
 
 ### Lenguajes y Tecnologías
-- HTML 5 & CSS3
-- JavaScript & React.js
-- Node.js & Express
-- Repositorios GIT
-- SQL MySQL
-- MongoDB
-- Python (APRENDIENDO)
+- <img alt="Static Badge" src="https://img.shields.io/badge/HTML-red"> y <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue">
+- <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow">
+- <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-greed"> y <img alt="Static Badge" src="https://img.shields.io/badge/Expres-grey">
+- <img alt="Static Badge" src="https://img.shields.io/badge/GIT-orange">
+- <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightblue">
+- <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-greed">
+- <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue">
 
 <br>
 
