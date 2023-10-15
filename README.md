@@ -22,6 +22,7 @@ Hola, soy Torres Richard, un desarrollador web apasionado por crear soluciones t
 - <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightblue">
 - <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-greed">
 - <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue">
+- <img alt="Static Badge" src="https://img.shields.io/badge/Django-greed">
 
 <br>
 
