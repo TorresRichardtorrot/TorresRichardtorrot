@@ -7,12 +7,12 @@
 Soy  un desarrollador web apasionado por crear soluciones tanto en el frontend como en el backend. Siempre estoy entusiasmado por aprender y enfrentar nuevos desafíos en el desarrollo web, ya que creo que el aprendizaje continuo es esencial en el campo tecnológico en constante evolución.
 
 ## 🚀 Habilidades
-- Liderazgo
-- Trabajo en equipo
-- Toma de decisiones resolutivas
-- Organización y planificación
-- Adaptable a cualquier entorno de trabajo
-- Siempre dispuesto a aprender
+- 🚀 Liderazgo
+- 🤝 Trabajo en equipo
+- ✅ Toma de decisiones resolutivas
+- 📅 Organización y planificación
+- 🔄 Adaptable a cualquier entorno de trabajo
+- 📘 Siempre dispuesto a aprender
 
 ### Lenguajes y Tecnologías
 - <img alt="Static Badge" src="https://img.shields.io/badge/HTML-red"> y <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue">
