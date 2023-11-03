@@ -15,16 +15,10 @@ Soy  un desarrollador web apasionado por crear soluciones tanto en el frontend c
 - 📘 Siempre dispuesto a aprender
 
 ### Lenguajes y Tecnologías
-- 📄 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-red">
-- 🎨 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue"> 
-- 💛 <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow">
-- 📡 <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-greed"> 
-- 🚀 <img alt="Static Badge" src="https://img.shields.io/badge/Expres-grey"> 
-- 🐙 <img alt="Static Badge" src="https://img.shields.io/badge/GIT-orange"> 
-- 📊 <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightblue"> 
-- 🍃 <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-greed"> 
-- 🐍 <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue"> 
-- 🐍 <img alt="Static Badge" src="https://img.shields.io/badge/Django-greed"> 
+- 📄 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-red"> 🎨 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue">  💛 <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow"> 
+- 📡 <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-greed"> 🚀 <img alt="Static Badge" src="https://img.shields.io/badge/Expres-grey"> 🐙 <img alt="Static Badge" src="https://img.shields.io/badge/GIT-orange"> 
+- 📊 <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightblue">  🍃 <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-greed"> 
+- 🐍 <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue"> 🐍 <img alt="Static Badge" src="https://img.shields.io/badge/Django-greed"> 
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -34,3 +28,9 @@ Soy  un desarrollador web apasionado por crear soluciones tanto en el frontend c
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TorresRichardtorrot&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+
+```
+console.log([76,108,101,103,97,115,116,101,115,32,108,101,106,111,115].map(char => String.fromCharCode(char)).join(''))
+
+```
