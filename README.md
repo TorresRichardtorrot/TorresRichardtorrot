@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">¡Hola, soy <a href="http://torres-richard.onrender.com/">Torres Richard</a>! 👋</h1>
 </div>
-<img width="100%" height="450px" src="https://github.com/TorresRichardtorrot/portafolio-estatico/blob/main/fondoGithub.png">
+<img width="100%" height="450px" src="https://i.imgur.com/CRweqs8.png">
 
 ## 👨‍💻 Sobre Mí
 Soy  un desarrollador web apasionado por crear soluciones tanto en el frontend como en el backend. Siempre estoy entusiasmado por aprender y enfrentar nuevos desafíos en el desarrollo web, ya que creo que el aprendizaje continuo es esencial en el campo tecnológico en constante evolución.
