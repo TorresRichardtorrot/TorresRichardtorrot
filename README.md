@@ -14,11 +14,21 @@ Soy  un desarrollador web apasionado por crear soluciones tanto en el frontend c
 - 🔄 Adaptable a cualquier entorno de trabajo
 - 📘 Siempre dispuesto a aprender
 
-### Lenguajes y Tecnologías
-- 📄 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-red"> 🎨 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue">  💛 <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow"> 
-- 📡 <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-greed"> 🚀 <img alt="Static Badge" src="https://img.shields.io/badge/Expres-grey"> 🐙 <img alt="Static Badge" src="https://img.shields.io/badge/GIT-orange"> 
-- 📊 <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightblue">  🍃 <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-greed"> 
-- 🐍 <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue"> 🐍 <img alt="Static Badge" src="https://img.shields.io/badge/Django-greed"> 
+## 🖥 Lenguajes y Tecnologías
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,sqlite,nodejs,express,mongo,python,django"/>
+  </a>
+</p>
+
+## 🖥📚 Aprendiendo :
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redux,ts,postgresql,sequelize"/>
+  </a>
+</p>
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 
