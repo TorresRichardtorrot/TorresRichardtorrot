@@ -17,7 +17,7 @@ Soy  un desarrollador web apasionado por crear soluciones tanto en el frontend c
 ## 🖥 Lenguajes y Tecnologías
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,sqlite,nodejs,express,mongo,python,django"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,sqlite,nodejs,express,mongo,python,django"/>
   </a>
 </p>
 
