@@ -25,7 +25,7 @@ Soy  un desarrollador web apasionado por crear soluciones tanto en el frontend c
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,ts,postgresql,sequelize"/>
+    <img src="https://skillicons.dev/icons?i=redux,ts,postgresql,sequelize,nest"/>
   </a>
 </p>
 
